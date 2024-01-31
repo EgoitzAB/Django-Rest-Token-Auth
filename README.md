@@ -2,6 +2,9 @@
 
 Este es el repositorio para el ejercicio con el Token de autenticación de Django Rest.
 
+## Requisitos
+Los requisitos para este proyecto se encuentran en el archivo `requirements.txt`.
+
 ## Instalación
 
 1. Clona el repositorio.
